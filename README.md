@@ -1,2 +1,1 @@
-Objective: Practice branching and merge conflicts.
-Merge branch 'feature-greeting'
+"Modification in main branch."
